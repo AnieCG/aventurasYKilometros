@@ -1,0 +1,38 @@
+*{background-color:  #E5E5E5;
+
+}
+
+h1{
+    color:#E76F51;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    font-size: 500%;;
+}
+
+.imagenViajes {
+    display: block;        
+  margin-left: auto;      
+  margin-right: auto;    
+  max-width: 30%;        
+  height: auto; 
+   
+}
+
+h2{
+    color:#02be9f;
+    text-align: justify;
+}
+
+h3{
+    color: hotpink;
+}
+
+h4{
+    color: mediumpurple;
+    font-family:sans-serif;
+    font-size: xx-large;
+}
+.listaLugaresFavoritos{
+    color: lightcoral;
+    font-size: medium;
+}
